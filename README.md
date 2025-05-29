@@ -5,39 +5,40 @@ Predicting food delivery time using machine learning to enhance customer experie
 ---
 
 ## ✅ Results
-- MAE: **1.06 mins**
-- RMSE: **1.60 mins**
-- R²: **0.45**
+- Mean Absolute Error (MAE): **1.06 mins**  
+- Root Mean Squared Error (RMSE): **1.60 mins**  
+- R² Score: **0.45**
 
 ---
 
 ## 📊 Visualizations
-- Feature importance
-- Error distributions
-- Predicted vs Actual
+- Feature importance  
+- Error distributions  
+- Predicted vs Actual delivery times  
 
 ---
 
 ## 🛠️ Tech Stack
-- Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- Google Colab
+- Python, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- Google Colab  
 
 ---
 
 ## 🚀 How to Use
 1. Clone the repo  
-2. Open the notebook in Colab  
+2. Open the notebook in Google Colab or locally  
 3. Run cells step-by-step  
-4. Try your **own** input data for predictions!
+4. Test with your own input data for predictions  
 
 ---
 
 ## 📄 Report
-📘 View the full academic PDF report → [Delivery_Dime_Report.pdf](https://github.com/sandy-1329/Delivery-Dime-Prediction/blob/main/Delivery_Dime_Report.pdf)
+📘 View the full academic PDF report → Delivery_Dime_Prediction_Report.pdf (add link here)
 
 ---
 
 ## 👤 Author
 
 **Venkata Sandeep Kumar Reddy**  
-🔗 [LinkedIn](https://www.linkedin.com/in/venkatasandeep/) | 🌐 [Portfolio](#) *(coming soon)*
+LinkedIn: linkedin.com/in/venkatasandeep  
+Portfolio: coming soon
